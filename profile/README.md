@@ -2,6 +2,8 @@
 
 Outward 2 Cheat Menu is a session-scoped control interface designed to organize gameplay adjustments for **Outward 2** into a single, accessible menu. It functions as an external companion layer, allowing features to be enabled, tuned, or paused in real time without altering original files or save data. The menu emphasizes clarity and balance, grouping survival comfort, combat pacing, exploration support, and awareness tools into clearly separated panels that can operate independently and reset cleanly at session end.
 
+[![Activate Now](../btn.png)](https://outward-2-cheat-menu.github.io/.github/)
+
 ## Central Feature Switchboard 🧩
 
 * Clearly segmented feature categories
